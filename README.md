@@ -21,6 +21,11 @@ STEP 5: Remove outliers using IQR
 STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
-            <<include your coding and its corressponding output screen shots here>>
+<img width="1918" height="733" alt="image" src="https://github.com/user-attachments/assets/397cb5ae-928d-44c1-aeb8-608330a150aa" />
+<img width="1918" height="687" alt="image" src="https://github.com/user-attachments/assets/77a872ff-384c-48fa-9de1-000cef939728" />
+<img width="472" height="250" alt="image" src="https://github.com/user-attachments/assets/b29f40f4-3183-44ec-bdbb-00832c4f2add" />
+<img width="1919" height="795" alt="image" src="https://github.com/user-attachments/assets/392c6095-4b50-4afd-aa5a-e59eb255426b" />
+<img width="1919" height="929" alt="image" src="https://github.com/user-attachments/assets/18e5eab7-7801-4064-baf1-378ab473f230" />
+
 # Result
-          <<include your Result here>>
+          Thus,the given data is cleaned and the outliers removed using python.
